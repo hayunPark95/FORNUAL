@@ -2,7 +2,7 @@
 Spring Framework + JSP 전문가 외주 사이트
 
 
-<http://13.125.224.187:8080/fornula/> 
+
 
 
 - FORNUAL은 전문가 외주를 목표로 공급과 수요를 연결해주는 사이트입니다.
